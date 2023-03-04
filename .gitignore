@@ -1,1 +1,4 @@
 venv
+chromedriver_mac64
+__pycache__
+.env
